@@ -1,23 +1,3 @@
---[[ Ask to ChatGPT or Deepseek if you need help with this --- Remember put this before the loadstring/script
-
-	Toggle: boolean (true or false)
-
-	Slider: number (3)
-
-	Dropdown: string ("Option 1")
-
-	MultiDropdown: table ({"Option 1", "Option 2"})
-
-	Input: string ("Hello")
-
-]]
-
-
-
-
-
-
-
 --Pet Simulator 99!
 
 _G.ZapSettings = {
